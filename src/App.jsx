@@ -70,7 +70,7 @@ export default function App() {
 
           <div className="w-72 h-96 rounded-xl bg-gradient-to-tr from-amber-400/20 to-slate-700/20 p-1">
             <div className="w-full h-full rounded-lg bg-gradient-to-b from-slate-700 to-slate-800 flex items-center justify-center text-amber-300 font-semibold">
-              <img src="public/photo.jpg" alt="Profile" className="w-full h-full object-cover rounded-lg" />
+              <img src="/photo.jpg" alt="Profile" className="w-full h-full object-cover rounded-lg" />
             </div>
           </div>
         </section>
