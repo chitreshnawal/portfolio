@@ -89,7 +89,7 @@ export default function App() {
             <ul className="mt-2 space-y-2 text-slate-300">
               <li>ISI Kolkata — B.Stat. Scholar, AIR 41 (2021)</li>
               <li>JEE Advanced 2021 — AIR 3637</li>
-              <li>Codeforces — max rating 1404 (solved problems in 1000–1900 range)</li>
+              <li>Codeforces — max rating 1480 (solved problems in 1000–1900 range)</li>
             </ul>
           </div>
 
