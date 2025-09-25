@@ -68,20 +68,15 @@ export default function App() {
             </div>
           </div>
 
-<<<<<<< HEAD
-          <div className="w-72 h-96 rounded-xl bg-gradient-to-tr from-green-400/20 to-zinc-800/20 p-1">
-            <div className="w-full h-full rounded-lg bg-gradient-to-b from-zinc-800 to-black flex items-center justify-center text-green-300 font-semibold">
-=======
-          <div className="w-72 h-96 rounded-xl bg-gradient-to-tr from-amber-400/20 to-slate-700/20 p-1">
-            <div className="w-full h-full rounded-lg bg-gradient-to-b from-slate-700 to-slate-800 flex items-center justify-center text-amber-300 font-semibold">
->>>>>>> 2203ea566a466b6d0ec9b6a1090f3f139a407dbc
+          <div className="w-72 h-96 rounded-xl bg-gradient-to-tr from-amber-400/20 to-zinc-800/20 p-1">
+            <div className="w-full h-full rounded-lg bg-gradient-to-b from-zinc-800 to-black flex items-center justify-center text-amber-300 font-semibold">
               <img src="/photo.jpg" alt="Profile" className="w-full h-full object-cover rounded-lg" />
             </div>
           </div>
         </section>
 
         <section id="about" className="mt-10 grid md:grid-cols-3 gap-6">
-          <div className="md:col-span-2 bg-zinc-800/60 rounded-2xl p-6">
+          <div className="md:col-span-2 bg-zinc-900/60 rounded-2xl p-6">
             <h3 className="text-xl font-semibold">About me</h3>
             <p className="text-zinc-300 mt-3 leading-relaxed">
               I graduated with a B.S. from IIT Kanpur's Department of Physics (class of 2025). My background in physics
