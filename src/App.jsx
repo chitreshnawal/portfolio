@@ -68,8 +68,8 @@ export default function App() {
             </div>
           </div>
 
-          <div className="w-72 h-96 rounded-xl bg-gradient-to-tr from-green-400/20 to-zinc-800/20 p-1">
-            <div className="w-full h-full rounded-lg bg-gradient-to-b from-zinc-800 to-black flex items-center justify-center text-green-300 font-semibold">
+          <div className="w-72 h-96 rounded-xl bg-gradient-to-tr from-amber-400/20 to-slate-700/20 p-1">
+            <div className="w-full h-full rounded-lg bg-gradient-to-b from-slate-700 to-slate-800 flex items-center justify-center text-amber-300 font-semibold">
               <img src="/photo.jpg" alt="Profile" className="w-full h-full object-cover rounded-lg" />
             </div>
           </div>
